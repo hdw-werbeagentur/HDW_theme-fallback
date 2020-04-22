@@ -1,0 +1,13 @@
+{
+    "name": "talented-monkeys/monkey-theme-fallback",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anthony Spross",
+            "email": "anthony@talented-monkeys.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
