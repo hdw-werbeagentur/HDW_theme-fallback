@@ -1,0 +1,25 @@
+{
+  "name": "monkey-theme-fallback",
+  "version": "0.0.1",
+  "description": "Fallback theme for wordpress monkey theme environment",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talented-Monkeys/monkey-theme-fallback.git"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "Talented Monkeys",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Talented-Monkeys/monkey-theme-fallback/issues"
+  },
+  "homepage": "https://github.com/Talented-Monkeys/monkey-theme-fallback#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
