@@ -1,24 +1,24 @@
 {
-  "name": "monkey-theme-fallback",
+  "name": "hdw-theme-fallback",
   "version": "0.0.1",
-  "description": "Fallback theme for wordpress monkey theme environment",
+  "description": "Fallback theme for wordpress hdw theme environment",
   "main": "index.php",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Talented-Monkeys/monkey-theme-fallback.git"
+    "url": "git+https://github.com/hdw-werbeagentur/HDW_theme-fallback.git"
   },
   "keywords": [
     "wordpress"
   ],
-  "author": "Talented Monkeys",
+  "author": "Talented hdws",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Talented-Monkeys/monkey-theme-fallback/issues"
+    "url": "https://www.hdw.dev/hdw-theme-fallback/docs"
   },
-  "homepage": "https://github.com/Talented-Monkeys/monkey-theme-fallback#readme",
+  "homepage": "https://www.hdw.dev/hdw-theme-fallback/docs",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   }
